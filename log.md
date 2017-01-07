@@ -1,30 +1,49 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed code and specs for pull request on drbd chef cookbook
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I think I need to expand my overall knowledge of chefspecs. Functionally I can get by, but I would love to have a more comprehensive knowledge of the test suite so I can write better, or more complete unit tests on cookbooks
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [drbd](https://github.com/chef-cookbooks/drbd/pull/8)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Jan 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Updated gitlab-doge to have no more critical vulnerabilities
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It is definitely liberating to remove version locking in some cases, but I need to get better about locking to a major versions and going through updates more often.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [gitlab-doge](https://github.com/esabelhaus/gitlab-doge)
 
+### Day 3: Jan 5, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Updated gitlab-doge to have as little outdated dependencies as possible
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Most everything works great, there are still a few tweaks needed to CSS and Angular after the updates
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: [gitlab-doge](https://github.com/esabelhaus/gitlab-doge)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 4: Jan 6, 2017
+
+**Today's Progress**: Began working on the pending specs, got it down to 11 from 14
+
+**Thoughts**: Feature tests are being a PITA right now, need to stub some more request data, and get things tidied up
+
+**Link(s) to work**: [gitlab-doge](https://github.com/esabelhaus/gitlab-doge)
+
+### Day 5: Jan 7, 2017
+
+**Today's Progress**: Moved the broken pending specs work to a feature branch, cleaned up master
+
+**Thoughts**: This is going to be fun digging in on the specs, and trying to get coverage up :D
+
+**Link(s) to work**: [gitlab-doge](https://github.com/esabelhaus/gitlab-doge)
+
+### Day 5: Jan 7, 2017
+
+**Today's Progress**: Started tinkering with the python NLTK and scrapy
+
+**Thoughts**: I think I've got a decent grasp on the basic construct of a scraper in scrapy, and I get the basic gist of how to process text with NLTK. This is a good start, and once I get scrapy working with more advanced file processing, I'd like to get it pulling in files of a certain extension, and then do post processing on those files once they're pulled in locally, then run NLTK against them and figure out neat details about the files
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
