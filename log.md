@@ -47,3 +47,11 @@
 **Thoughts**: I think I've got a decent grasp on the basic construct of a scraper in scrapy, and I get the basic gist of how to process text with NLTK. This is a good start, and once I get scrapy working with more advanced file processing, I'd like to get it pulling in files of a certain extension, and then do post processing on those files once they're pulled in locally, then run NLTK against them and figure out neat details about the files
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 6: Jan 8, 2017
+
+**Today's Progress**: Wrote a python script which posts a fortune from `fortune` to twitter daily
+
+**Thoughts**: I like this concept, want to incorporate NLTK to ensure positive tweets are only flying out
+
+**Link(s) to work**: [daily_fortune](https://github.com/esabelhaus/daily_fortune)
