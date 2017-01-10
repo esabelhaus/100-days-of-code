@@ -55,3 +55,11 @@
 **Thoughts**: I like this concept, want to incorporate NLTK to ensure positive tweets are only flying out
 
 **Link(s) to work**: [daily_fortune](https://github.com/esabelhaus/daily_fortune)
+
+### Day 7: Jan 9, 2017
+
+**Today's Progress**: debugged my cron from yesterday, found I was missing fortunes, and also limited the number of fortune cookies to pull from
+
+**Thoughts**: tomorrow I will start writing an NLTK script to process all the fortune files into a keystore file of twitter ready quotes so there is no need for an app install other than python3 and python3-pip
+
+**Link(s) to work**: [daily_fortune](https://github.com/esabelhaus/daily_fortune)
