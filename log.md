@@ -63,3 +63,11 @@
 **Thoughts**: tomorrow I will start writing an NLTK script to process all the fortune files into a keystore file of twitter ready quotes so there is no need for an app install other than python3 and python3-pip
 
 **Link(s) to work**: [daily_fortune](https://github.com/esabelhaus/daily_fortune)
+
+### Day 8: Jan 10, 2017
+
+**Today's Progress**: worked through the stages of scraping, refactoring stages into main spider
+
+**Thoughts**: Kinda cool grabbing the URL for over 340 files, did a wget on the list for fun, almost a quarter gig worth of PDFs :D
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
