@@ -71,3 +71,11 @@
 **Thoughts**: Kinda cool grabbing the URL for over 340 files, did a wget on the list for fun, almost a quarter gig worth of PDFs :D
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 9: Jan 11, 2017
+
+**Today's Progress**: all 4 stages of scraping work now, could be more streamlined, but I believe I scraped all PDFs :D
+
+**Thoughts**: 411 PDFs grabbed, 17000+ requests made, a lot of duplicate requests though... gotta clean that part up eventually
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
