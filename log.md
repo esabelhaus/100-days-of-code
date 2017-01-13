@@ -79,3 +79,12 @@
 **Thoughts**: 411 PDFs grabbed, 17000+ requests made, a lot of duplicate requests though... gotta clean that part up eventually
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 10: Jan 12, 2017
+
+**Today's Progress**: Doing some homework as my entry today. Taking a class at UMUC on game development using jMonkey. Modifying some boilerplate code and adding stuff to create a coin flipping game. should be done by tomorrow.
+
+**Thoughts**: I REAAAAAALY want to refactor my professors code, but I'll resist the urge for now. If I knock things out quickly tomorrow, refactoring will happen, and the swing code will be cleaned up
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
+
