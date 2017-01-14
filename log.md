@@ -88,3 +88,10 @@
 
 **Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
 
+### Day 11: Jan 13, 2017
+
+**Today's Progress**: got the flipping gui sorted, but I need to modify the action listener to let the user know whether their guess is correct.
+
+**Thoughts**: still want to refactor the code, but I got distracted by playing Destiny, so that happened. Need to designate a block of time for code, rather than gaming/coding at the same time.
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
