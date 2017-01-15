@@ -95,3 +95,19 @@
 **Thoughts**: still want to refactor the code, but I got distracted by playing Destiny, so that happened. Need to designate a block of time for code, rather than gaming/coding at the same time.
 
 **Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
+
+### Day 12: Jan 14, 2017
+
+**Today's Progress**: Almost have everything working with the gui, had to save the coin flip output to txt files
+
+**Thoughts**: Data encapsulation in swing is a pain in the ass
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CoinFlipping)
+
+### Day 13: Jan 15, 2017
+
+**Today's Progress**: Ok, everything works, code is cleaned up, at some point I will try to refactor this to not need to save the output to a file, but it works :D
+
+**Thoughts**: homework submitted, I think there ought to be a better encouragement from college faculty on pushing homework code to github/gitlab so that people can share and learn from one another.
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CoinFlipping)
