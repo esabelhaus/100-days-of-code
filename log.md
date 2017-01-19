@@ -112,9 +112,17 @@
 
 **Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CoinFlipping)
 
-### Day 14/15: Jan 16/27, 2017
+### Day 14/15: Jan 16/17, 2017
 
 **Today's Progress**: processed the text of the hundreds of PDFs I scraped using PyPDF2, output them to text, and then started working with NLTK to process them further
+
+**Thoughts**: This is going to be neat. Everything is currently ham strung, but once I get it all working in some fashion, I will abstract it out, and make it a service of sorts possibly
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 16: Jan 18, 2017
+
+**Today's Progress**: getting some sentiment analysis strategies worked out, still work to do
 
 **Thoughts**: This is going to be neat. Everything is currently ham strung, but once I get it all working in some fashion, I will abstract it out, and make it a service of sorts possibly
 
