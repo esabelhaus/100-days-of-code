@@ -127,3 +127,11 @@
 **Thoughts**: This is going to be neat. Everything is currently ham strung, but once I get it all working in some fashion, I will abstract it out, and make it a service of sorts possibly
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 17: Jan 19, 2017
+
+**Today's Progress**: had a fun day with kernel panics today, they're no picnic... Besides that, got to work on some jmonkey game dev for class
+
+**Thoughts**: Openstack + VirtualBox is a tricky dance apparently, nested virtualization is a pain in the butt. JMonkey is pretty neat I guess.
+
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
