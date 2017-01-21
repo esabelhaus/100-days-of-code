@@ -143,3 +143,11 @@
 **Thoughts**: I need to focus less on politics, and more on how I can help those in need. #FuckTrump
 
 **Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
+
+### Day 19: Jan 21, 2017
+
+**Today's Progress**: the text processing is still working, but slow going as it is doing an iterative comparison loop on each word. I've either got to paralellize it, or consider modifying my algorithm.
+
+**Thoughts**: could go the recursive route here, or possibly hash the comparison words and use boolean comparison on the hash. A little more memory intensive, but it will rapidly increase the process as it would be only one iterative loop, rather than running an exponential route as I currently am
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
