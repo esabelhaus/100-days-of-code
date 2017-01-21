@@ -135,3 +135,11 @@
 **Thoughts**: Openstack + VirtualBox is a tricky dance apparently, nested virtualization is a pain in the butt. JMonkey is pretty neat I guess.
 
 **Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
+
+### Day 18: Jan 20, 2017
+
+**Today's Progress**: Got my homework finished, today is a somber day
+
+**Thoughts**: I need to focus less on politics, and more on how I can help those in need. #FuckTrump
+
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
