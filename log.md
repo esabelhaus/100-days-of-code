@@ -151,3 +151,13 @@
 **Thoughts**: could go the recursive route here, or possibly hash the comparison words and use boolean comparison on the hash. A little more memory intensive, but it will rapidly increase the process as it would be only one iterative loop, rather than running an exponential route as I currently am
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 20: Jan 22, 2017
+
+**Today's Progress**: so, today was major progress. The last run through of this data set didn't even finish in a day. I redesigned the algorithm to process matching words to a hash value within a dictionary. I'll explain in the thoughs as to why I did this change :)
+
+**Thoughts**: Using a nested loop, you're iteratively going over every item in one list, and for every item in the first list, it iterates over all items in the second list. Say I have two lists, each with 50,000 items. I am now iterating over 50,000 items, 50,000 times each. This is an exponential growth rate, and is non functional at scale.
+
+The alternative approach I defined uses an iterative loop over the strings being classified, and it uses a dictionary or `dict()` data structure to compare items within the iterative loop. A dictionary object type provides a key value pair, and in this instance, I created a dictionary of words, paired to a boolean value of True `{'word': True}`. This allows me to loop over every string and verify if it exists within a `try: except:` block. This solution requires more memory, but significantly less time than it previously had.
+
+**Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
