@@ -161,3 +161,11 @@
 The alternative approach I defined uses an iterative loop over the strings being classified, and it uses a dictionary or `dict()` data structure to compare items within the iterative loop. A dictionary object type provides a key value pair, and in this instance, I created a dictionary of words, paired to a boolean value of True `{'word': True}`. This allows me to loop over every string and verify if it exists within a `try: except:` block. This solution requires more memory, but significantly less time than it previously had.
 
 **Link(s) to work**: [secret-octo-dubstep](https://github.com/esabelhaus/secret-octo-dubstep)
+
+### Day 21: Jan 23, 2017
+
+**Today's Progress**: Finally getting around to building my website. I had been working on using hamlJS before, decided to go with pug. I've set up my layout template with the top bar. Loves me some zurb foundation :D
+
+**Thoughts**: I've got a few ideas of how I'd like to lay things out, maybe I can get a logo made on fiverr 
+
+**Link(s) to work**: [sabel.haus](https://github.com/esabelhaus/sabel.haus)
