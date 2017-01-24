@@ -134,7 +134,7 @@
 
 **Thoughts**: Openstack + VirtualBox is a tricky dance apparently, nested virtualization is a pain in the butt. JMonkey is pretty neat I guess.
 
-**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausCMSC325)
 
 ### Day 18: Jan 20, 2017
 
@@ -142,7 +142,7 @@
 
 **Thoughts**: I need to focus less on politics, and more on how I can help those in need. #FuckTrump
 
-**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausHwTwo)
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausCMSC325)
 
 ### Day 19: Jan 21, 2017
 
@@ -169,3 +169,11 @@ The alternative approach I defined uses an iterative loop over the strings being
 **Thoughts**: I've got a few ideas of how I'd like to lay things out, maybe I can get a logo made on fiverr 
 
 **Link(s) to work**: [sabel.haus](https://github.com/esabelhaus/sabel.haus)
+
+### Day 22: Jan 24, 2017
+
+**Today's Progress**: I worked on homework for my comp sci class tonight, got a start by copying in the boiler plate code provided from my professor, tweaked a few things, created a font, tomorrow I'll redo things from the boiler plate to match my theme.
+
+**Thoughts**: This class has been pretty straight forward so far, and a bit nicer than the computer graphics class I took last semester.
+
+**Link(s) to work**: [sabel.haus](https://github.com/esabelhaus-homework/SabelhausCMSC325/tree/proj1)
