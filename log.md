@@ -166,7 +166,7 @@ The alternative approach I defined uses an iterative loop over the strings being
 
 **Today's Progress**: Finally getting around to building my website. I had been working on using hamlJS before, decided to go with pug. I've set up my layout template with the top bar. Loves me some zurb foundation :D
 
-**Thoughts**: I've got a few ideas of how I'd like to lay things out, maybe I can get a logo made on fiverr 
+**Thoughts**: I've got a few ideas of how I'd like to lay things out, maybe I can get a logo made on fiverr
 
 **Link(s) to work**: [sabel.haus](https://github.com/esabelhaus/sabel.haus)
 
@@ -177,3 +177,11 @@ The alternative approach I defined uses an iterative loop over the strings being
 **Thoughts**: This class has been pretty straight forward so far, and a bit nicer than the computer graphics class I took last semester.
 
 **Link(s) to work**: [sabel.haus](https://github.com/esabelhaus-homework/SabelhausCMSC325/tree/proj1)
+
+### Day 23: Jan 25, 2017
+
+**Today's Progress**: Static website content started, assets added.
+
+**Thoughts**: still thinking about the layout of each page, and whether I'll hit up Fiverr
+
+**Link(s) to work**: [sabel.haus.static](https://github.com/esabelhaus/sabel.haus.static)
