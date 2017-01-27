@@ -185,3 +185,11 @@ The alternative approach I defined uses an iterative loop over the strings being
 **Thoughts**: still thinking about the layout of each page, and whether I'll hit up Fiverr
 
 **Link(s) to work**: [sabel.haus.static](https://github.com/esabelhaus/sabel.haus.static)
+
+### Day 24: Jan 26, 2017
+
+**Today's Progress**: added content to index page, gotta consider the layout a little. Basic is fine for now though
+
+**Thoughts**: still thinking about the layout of each page, and I think I'll hit up Fiverr
+
+**Link(s) to work**: [sabel.haus.static](https://github.com/esabelhaus/sabel.haus.static)
