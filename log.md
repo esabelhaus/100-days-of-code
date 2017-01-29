@@ -193,3 +193,20 @@ The alternative approach I defined uses an iterative loop over the strings being
 **Thoughts**: still thinking about the layout of each page, and I think I'll hit up Fiverr
 
 **Link(s) to work**: [sabel.haus.static](https://github.com/esabelhaus/sabel.haus.static)
+
+### Day 25: Jan 27, 2017
+
+**Today's Progress**: Worked on my homework some more, nearly finished laying out objects in the scene
+
+**Thoughts**: jmonkey is neat, but documentation is weird to get at unless you've got an account to their hub
+
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausCMSC325)
+
+### Day 26: Jan 28, 2017
+
+**Today's Progress**: Homework finished, might not be my best work, gonna do better on the next assignment
+
+**Thoughts**: spending two days on a project that could have taken 3 was a bad idea, gotta focus on school more
+
+**Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausCMSC325)
+
