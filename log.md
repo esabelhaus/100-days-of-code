@@ -210,3 +210,27 @@ The alternative approach I defined uses an iterative loop over the strings being
 
 **Link(s) to work**: [SabelhausHwTwo](https://github.com/esabelhaus-homework/SabelhausCMSC325)
 
+### Day 27/28: Jan 28/29, 2017
+
+**Today's Progress**: worked on some python code for processing tweets, lots of trial and error
+
+**Thoughts**: APIs are neat
+
+**Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
+
+### Day 29: Jan 30, 2017
+
+**Today's Progress**: got the stream being processed asynchronously as it should be, still need to tweak processing
+
+**Thoughts**: APIs are neat
+
+**Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
+
+### Day 30: Jan 31, 2017
+
+**Today's Progress**: I've now processed over 88000 tweets and counting, gonna let it run over night
+
+**Thoughts**: So, I stumbled upon the fact that MAGA was being tweeted heavily in association with hateful connotation, and I wanted to confirm it. Once I've gathered a couple hundred thousand tweets, I will use the mongo aggregation pipelines to slice and dice these tweets I've been storing. I also intend to publish my findings, as well as possibly make the scripts a little more dynamic. Currently I have a broad scope just filtering tweets containing the MAGA hashtag, which is a broad net to cast. But I intend to do many different data studies on these tweets, so it's necessary for now.
+
+**Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
+
