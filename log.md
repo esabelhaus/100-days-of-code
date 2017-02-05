@@ -234,3 +234,39 @@ The alternative approach I defined uses an iterative loop over the strings being
 
 **Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
 
+### Day 31: Feb 01, 2017
+
+**Today's Progress**: Worked on JMonkey code for my homework
+
+**Thoughts**: Pretty neat IDE to work in, makes programming a game pretty straight forward
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
+
+### Day 32: Feb 02, 2017
+
+**Today's Progress**: finished homework, downloaded MS Win VMs for tomorrow
+
+**Thoughts**: None today, just homework business
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
+
+### Day 33: Feb 03, 2017
+
+**Today's Progress**: Went through and figured out a straight forward process for setting up ruby on rails dev env on Powershell in Windows 7/8.1/10
+
+**Thoughts**: chocolatey is pretty sweet
+
+**Link(s) to work**: [workshop-for-women-powershell-instructions](https://github.com/esabelhaus/workshop-for-women-powershell-instructions)
+
+### Day 34: Feb 04, 2017
+
+**Today's Progress**: no code today, did yard work
+
+### Day 35: Feb 05, 2017
+
+**Today's Progress**: I worked out kinks in my processing script, tested it against 1 hour worth of data
+
+**Thoughts**: I'm very intrigued by my initial data in testing. I'll wait until I perform analysis against a full day worth of data to make my conculsions.
+
+**Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
+
