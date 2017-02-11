@@ -270,3 +270,11 @@ The alternative approach I defined uses an iterative loop over the strings being
 
 **Link(s) to work**: [socially-distorted](https://github.com/esabelhaus/socially-distorted)
 
+
+### Day 36-41: Feb 06-10, 2017
+
+**Today's Progress**: Spent a week working on homework, trying to debug something, only to find that it was related to a single number...
+
+**Thoughts**: always inspect initializers...
+
+**Link(s) to work**: [CMSC325](https://github.com/esabelhaus-homework/CMSC325)
